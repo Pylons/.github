@@ -4,7 +4,7 @@ All projects under the Pylons Project, including this one, follow the guidelines
 
 You can contribute to this project in several ways.
 
-*   [File an Issue on GitHub](/issues)
+*   [File an Issue on GitHub](../../issues)
 *   Fork this project and create a branch with your suggested change.
     When ready, submit a pull request for consideration.
     [GitHub Flow](https://guides.github.com/introduction/flow/index.html) describes the workflow process and why it's a good practice.
